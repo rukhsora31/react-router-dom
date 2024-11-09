@@ -1,0 +1,25 @@
+.cards{
+    background-color: lightcoral;
+    padding: 100px 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.link1{
+    text-align: center;
+    border: 1px solid lightblue;
+    background-color: lightblue;
+    color: darkred;
+    width: 100px;
+}
+.link2{
+ 
+    background-color: darkred;
+    color: lightblue;
+
+}
